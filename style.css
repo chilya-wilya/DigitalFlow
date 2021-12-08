@@ -110,7 +110,7 @@ body {
     margin: 388px 138px 387px 0px;
 }
 
-.black {
+.scroll {
     width: 15px;
     height: 15px;
     background-color: #313035;
@@ -119,12 +119,8 @@ body {
 }
 
 .white {
-    width: 15px;
-    height: 15px;
     background-color: #fff;
     border: 2px solid #8D8C92;
-    border-radius: 50%;
-    margin-bottom: 15px;
 }
 
 /* 'Portfolio' page style */
